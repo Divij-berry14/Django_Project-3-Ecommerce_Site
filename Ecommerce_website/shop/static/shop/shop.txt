@@ -1,0 +1,1 @@
+"Hi! Welcome to First Shop Static File. Location is shop/static/index.txt"

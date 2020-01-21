@@ -1,0 +1,1 @@
+"Hi! Welcome to the Blog Static File. Location is blog/static/blog/blog.txt"
